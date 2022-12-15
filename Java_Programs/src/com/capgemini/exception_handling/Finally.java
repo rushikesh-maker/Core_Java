@@ -19,7 +19,7 @@ public class Finally {
         // Always execute
         finally {
             
-            System.out.println("finally block always execute.");
+            System.out.println("finally block always execute!");
             
         }
 	}
